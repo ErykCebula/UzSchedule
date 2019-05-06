@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlanUz</string>
+    <string name="action_settings">Kalendarz</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="title_activity_subject">SubjectActivity</string>
+    <string name="title_activity_subjects">SubjectsActivity</string>
+    <string name="title_activity_blabla">BlablaActivity</string>
+
+</resources>
